@@ -25,7 +25,7 @@ class ViewController: UIViewController {
     }
     
     override func viewDidDisappear(_ animated: Bool) {
-        //
+        // 주석을 좀더 추가했다.
     }
 }
 
